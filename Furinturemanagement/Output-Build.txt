@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: furnituremanagmentsystem, Configuration: Debug Any CPU ------
+1>C:\Users\HP\Desktop\furnituremanagmentsystem\furnituremanagmentsystem\Form1.cs(16,14,16,22): warning CS0414: The field 'furnituremanagmentsystem.Form1.loggedIn' is assigned but its value is never used
+1>C:\Users\HP\Desktop\furnituremanagmentsystem\furnituremanagmentsystem\memberControl.cs(15,14,15,24): warning CS0414: The field 'furnituremanagmentsystem.memberControl.custLogged' is assigned but its value is never used
+1>  furnituremanagmentsystem -> C:\Users\HP\Desktop\furnituremanagmentsystem\furnituremanagmentsystem\bin\Debug\furnituremanagmentsystem.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
